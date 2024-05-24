@@ -2,11 +2,11 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #E3F2FD;
+    background-color: #f2f0ef;
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #d42470;
     padding: 10px 0;
     display: flex;
     justify-content: space-between;
@@ -45,7 +45,7 @@ nav ul li a {
 .banner {
     background-image: url('img/banner.png');
     background-size: cover;
-    color: #FFFFFF;
+    color: #08bdb7;
     text-align: center;
     padding: 100px 20px;
 }
@@ -66,8 +66,8 @@ nav ul li a {
 }
 
 .btn {
-    background-color: #FFEB3B;
-    color: #4CAF50;
+    background-color: #d42470;
+    color: #FFFFFF;
     padding: 10px 20px;
     text-decoration: none;
     font-weight: bold;
@@ -87,7 +87,7 @@ nav ul li a {
 
 .destaque h2 {
     font-size: 2.5em;
-    color: #4CAF50;
+    color: #a50eb0;
 }
 
 .destaque p {
@@ -100,7 +100,7 @@ nav ul li a {
 }
 
 footer {
-    background-color: #4CAF50;
+    background-color: #08bdb7;
     color: #FFFFFF;
     text-align: center;
     padding: 20px 0;
